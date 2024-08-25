@@ -1,0 +1,16 @@
+@media screen and (mix-width: 768px) {
+   
+    .container{
+       
+    }
+    .navbar{
+        flex-wrap: wrap;
+    }
+    .flex-img{
+    flex-wrap: wrap;
+    }
+    .flex-card{
+       flex-direction: column;
+    }
+    
+  }
