@@ -1,7 +1,7 @@
 @media (max-width: 759px) {
 
      .container{
-      width: 100%;
+      max-width: 100%;
      }
 
     .navbar {
