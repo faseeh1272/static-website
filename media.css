@@ -1,16 +1,39 @@
-@media screen and (mix-width: 768px) {
-   
-    .container{
-       
+@media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      gap: 10px;
     }
-    .navbar{
-        flex-wrap: wrap;
+    .logo img {
+      width: 50px;
     }
-    .flex-img{
-    flex-wrap: wrap;
+    ul {
+      font-size: 15px;
     }
-    .flex-card{
-       flex-direction: column;
+    .button {
+      font-size: 10px;
     }
-    
+    div.cover {
+      height: 300px;
+    }
+    .text-img {
+      flex-direction: column;
+    }
+    .left-text {
+      width: 100%;
+      padding-top: 20px;
+    }
+    .right-text {
+      width: 100%;
+      height: 100px;
+    }
+    .flex-card {
+      flex-direction: column;
+      align-items: center;
+    }
+    .card {
+      width: 100%;
+      flex-direction: column;
+    }
   }
+  
+  
