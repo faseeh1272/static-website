@@ -50,7 +50,7 @@ ul{
 }
 div.cover{
   width: 100%;
-    background-image: url(/Car-Rental-Web-Banner-Design-scaled.jpg);
+    background-image: url(./Car-Rental-Web-Banner-Design-scaled.jpg);
     height: 600px;
     background-position: center;
     background-size: cover;
